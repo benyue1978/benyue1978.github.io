@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an R&D Manager in a very big software enterprise - traditional software enterprise. I'm starting my journey to learn new things, especially AI.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Starting to setup TensorFlow..
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yuesong@gmail.com](mailto:yuesong@gmail.com)
